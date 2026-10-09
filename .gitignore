@@ -1,0 +1,25 @@
+# Python virtual environments
+
+minor_project/
+venv/
+.venv/
+env/
+
+# Python cache files
+
+**pycache**/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Model weights and generated files (optional)
+
+*.pth
+*.pt
+*.h5
+
+# Environment variables and secrets
+
+.env
